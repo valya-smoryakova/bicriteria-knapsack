@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knapsack.Core", "Knapsack.Core\Knapsack.Core.csproj", "{E14A9438-CA7D-47E7-B1B1-3BC282A560AB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knapsack.Test", "Knapsack.Test\Knapsack.Test.csproj", "{6CC86942-DE41-4F52-876A-3F2A6761FA1B}"
