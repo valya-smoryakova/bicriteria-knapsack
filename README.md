@@ -1,3 +1,5 @@
+Сергей Герасимов
+
 # Бикритериальная задача о ранце
 
 Для тех, кто хочет попробовать реализовать алгоритм через тесты (использовать подход [**TDD**](http://bit.ly/1n0myJO)) мы создали данный репозиторий. Он содержит [проект](https://github.com/valya-smoryakova/bicriteria-knapsack/tree/master/Knapsack.Test) с изначально закомментированным кодом тестов и [проект-заглушку](https://github.com/valya-smoryakova/bicriteria-knapsack/tree/master/Knapsack.Core) для кода Вашей реализации.
